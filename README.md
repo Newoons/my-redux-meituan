@@ -16,3 +16,4 @@ npm run serve
 npm run start
 
 ```
+根据黑马程序员教程使用redux实现仿美团商品列表
